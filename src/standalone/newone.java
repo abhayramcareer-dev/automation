@@ -17,4 +17,13 @@ public class newone {
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 
 }
+	
+	public void switchwindow() {
+		
+	}
+	
+	public void switchwindow1() {
+		
+	}
+	
 }
